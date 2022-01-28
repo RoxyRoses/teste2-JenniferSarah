@@ -1,16 +1,12 @@
-# teste2
+# Teste2-JenniferSarah
 
-A new Flutter project.
+# O projeto foi criado utilizando o visual studio code, para abrir com este programa, certifique - se de ter o visual studio code, o android studio, o java jdk, e o flutter instalados e configurados no seu computador.
 
-## Getting Started
+# 1- Abra o visual studio code e selecione abrir pasta, escolha a pasta teste2. (baixar pacotes do dart caso necessario)
+# 2- Inicie o emulador de android na aba inferior direita do visual studio, caso nao tenha algum emulador configurado, realizar configuracao no android studio.
+# 3- abrir o arquivo main.dart e pressiona F5 para executar o app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Outra maneira de testar e criar o apk do app.
+# 1- Abra o visual studio e rode o comando no terminal : flutter build apk
+# 2 - o arquivo sera criado em build\app\outputs\flutter-apk\app-release.apk
+# 3 - instale no dispositivo e abra o aplicativo.
